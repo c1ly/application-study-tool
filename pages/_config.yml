@@ -23,7 +23,7 @@ description: A tool for monitoring BigIP Devices with Grafana, Prometheus, and O
 
 
 # Build settings
-theme: just-the-docs/just-the-docs
+theme: just_the_docs
 url: https://f5devcentral.github.io/application-study-tool/
 
 aux_links:
